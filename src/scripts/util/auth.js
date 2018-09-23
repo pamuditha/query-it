@@ -15,7 +15,7 @@ export default class Auth {
 
   @autobind
   auth() {
-    const clientId = '780312880514-ct9e52jgnc81gumk0gdv7udlltnk80ka.apps.googleusercontent.com';
+    const clientId = '296583778570-oecube77sm0c3oj0n734l78mt0npkhhv.apps.googleusercontent.com';
 
     var config = {
       'client_id': clientId,
